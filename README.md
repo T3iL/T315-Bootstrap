@@ -1,4 +1,4 @@
-# (2020.12.07-08) T315-Bootstrap-JQuery
+# (2020.12.07-08) T315-Bootstrap
 
 ## -------INFO
 ```
