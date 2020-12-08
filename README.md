@@ -11,9 +11,11 @@
 ```
 T31500 - TEST
 
-T31501 - Odtwórz stronęzaprezentowaną na obrazie Strona-test
+T31501 - Odtwórz stronę zaprezentowaną na obrazie Strona-test
 
-T31502 - Przygotuj uproszczoną alternatywę dla JQuery
+T31502 - Przygotuj uproszczoną alternatywę dla JQuery udostępniającą uniwersalny selektor "$" pozwalający na wykonanie nastepującej sekwencji (bez dołączania jquery).
+
+    $('#test').style.color = 'red';
 
 ```
 
