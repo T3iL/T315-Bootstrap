@@ -13,6 +13,8 @@ T31500 - TEST
 
 T31501 - Odtwórz stronę zaprezentowaną na obrazie Strona-test.jpg
 
+T31503 - Przygotuj rebus, grę lub historyjkę (slideshow) zbudowaną z ikon
+
 ```
 
 ### --------Links
