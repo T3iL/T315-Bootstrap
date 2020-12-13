@@ -18,6 +18,12 @@ T31501 - Odtwórz stronę zaprezentowaną na obrazie Strona-test.jpg
 ### --------Links
 https://github.com/T3iL/T315-Bootstrap-JQuery
 
+https://www.cdnpkg.com/font-awesome
+
+https://fontawesome.com/v4.7.0/get-started/
+
+https://iconify.design/
+
 GOOGLE DRIVE: 
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
