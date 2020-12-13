@@ -26,7 +26,11 @@ https://fontawesome.com/v4.7.0/get-started/
 
 https://iconify.design/
 
+https://icons.getbootstrap.com/
+
 https://www.rebusy.edu.pl/
+
+https://cytaty24.pl/cytaty/M%C4%85dro%C5%9B%C4%87/Aforyzmy,Sentencje/k/33
 
 GOOGLE DRIVE: 
 
